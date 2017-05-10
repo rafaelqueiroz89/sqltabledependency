@@ -1,0 +1,442 @@
+﻿
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O nome da conta é inválido, inexistente ou a senha não é válida para o nome de conta especificado
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O nome da conta é inválido, inexistente ou a senha não é válida para o nome de conta especificado
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O serviço especificado já existe
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O serviço especificado já existe
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Ocorreu uma exceção durante a fase de instalação.
+System.ComponentModel.Win32Exception: O serviço especificado já existe
+
+Fase de reversão da instalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de reversão foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.
+
+Executando uma instalação transacionada.
+
+Começando a fase de instalação da instalação.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de instalação foi concluída com êxito e a fase de confirmação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Fase de confirmação foi concluída com êxito.
+
+Instalação transacionada concluída.
+
+
+Desinstalação está começando.
+Consulte o conteúdo do arquivo de log para o andamento do assembly C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe.
+Arquivo está localizado em C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog.
+
+Desinstalação concluída.

@@ -1,0 +1,571 @@
+﻿Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = portaleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Criando a origem de EventLog ServicoPegabug no log Application...
+Revertendo o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = portaleducacao\rafael.queiroz
+   password = ********
+Restaurando o log de eventos para o estado anterior da origem ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = portal.educacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Criando a origem de EventLog ServicoPegabug no log Application...
+Revertendo o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = portal.educacao\rafael.queiroz
+   password = ********
+Restaurando o log de eventos para o estado anterior da origem ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Criando a origem de EventLog ServicoPegabug no log Application...
+Revertendo o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Restaurando o log de eventos para o estado anterior da origem ServicoPegabug.
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Aviso: a origem ServicoPegabug não está registrada no computador local.
+Serviço ServicoPegabug está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Criando a origem de EventLog ServicoPegabug no log Application...
+Revertendo o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Restaurando o log de eventos para o estado anterior da origem ServicoPegabug.
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Aviso: a origem ServicoPegabug não está registrada no computador local.
+Serviço ServicoPegabug está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Aviso: a origem ServicoPegabug não está registrada no computador local.
+Serviço ServicoPegabug está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Criando a origem de EventLog ServicoPegabug no log Application...
+Revertendo o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Restaurando o log de eventos para o estado anterior da origem ServicoPegabug.
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
+Instalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Instalando o serviço ServicoPegabug...
+Serviço ServicoPegabug foi instalado com êxito.
+Criando a origem de EventLog ServicoPegabug no log Application...
+Confirmando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Desinstalando o assembly 'C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.exe
+   logfile = C:\Users\rafael.queiroz\Documents\Visual Studio 2013\Projects\PegaBugWinService\bin\Debug\PegaBugWinService.InstallLog
+   user = uoleducacao\rafael.queiroz
+   password = ********
+Removendo a origem do EventLog ServicoPegabug.
+Serviço ServicoPegabug está sendo removido do sistema...
+Serviço ServicoPegabug foi removido com êxito do sistema.
+Tentativa de parar o serviço ServicoPegabug.
