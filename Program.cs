@@ -17,7 +17,7 @@ namespace PegaBugWinService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[] 
             { 
-                new ServicoPegabug()
+                new WindowsService()
             };
             ServicesToRun[0].AutoLog.Equals(true);
             ServiceBase.Run(ServicesToRun);

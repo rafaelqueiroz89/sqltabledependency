@@ -5,6 +5,9 @@ using System.ServiceProcess;
 
 namespace PegaBugWinService
 {
+    /// <summary>
+    /// This is where you put all the information about the windows service that you want to install
+    /// </summary>
     [RunInstaller(true)]
     public partial class ProjectInstaller : System.Configuration.Install.Installer
     {
@@ -14,12 +17,12 @@ namespace PegaBugWinService
         public ProjectInstaller()
         {
             serviceInstaller = new ServiceInstaller();
-            serviceInstaller.ServiceName = "ServicoPegabug";
-            serviceInstaller.DisplayName = "ServicoPegabug";
-            serviceInstaller.Description = "Serviço que captura tudo o que acontece numa tabela do SQL Server";
+            serviceInstaller.ServiceName = "WindowsService";
+            serviceInstaller.DisplayName = "WindowsService";
+            serviceInstaller.Description = "Service that captures everything that happens with a SQL Server Table";
             serviceInstaller.StartType = ServiceStartMode.Automatic;
             serviceInstaller.DelayedAutoStart = true;
-            serviceInstaller.ServicesDependedOn = new string[] { "Tcpip", "Dhcp", "Dnscache" };
+            serviceInstaller.ServicesDependedOn = new string[] { "Tcpip", "Dhcp", "Dnscache" }; //you will need this
             Installers.Add(serviceInstaller);
             
             serviceProcessInstaller = new ServiceProcessInstaller();
@@ -60,7 +63,7 @@ namespace PegaBugWinService
 
         void ServiceInstaller_AfterInstall(object sender, InstallEventArgs e)
         {
-            using (ServiceController sc = new ServiceController("ServicoPegabug"))
+            using (ServiceController sc = new ServiceController("WindowsService"))
             {
                 sc.Start();
             }
